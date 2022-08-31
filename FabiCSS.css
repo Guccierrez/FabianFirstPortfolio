@@ -5,7 +5,8 @@
 }
 
 body {
-    background-color: #c3b427;
+    background: rgb(0,0,0);
+background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(158,155,12,1) 35%, rgba(0,0,0,1) 100%);
 }
 
 header {
@@ -138,22 +139,26 @@ footer h2 {
 }
 
 .float-right:hover{
-transform: scale(1.5);
+transform: scale(1.3);
 }
 
-@media screen and (max-width: 992px) {
+.logos:hover{
+transform: scale(1.3);
+}
+
+@media screen and (max-width: 900px) {
 
 
     header {
-      background: #000000;
+      color: #9e9b0c;
     }
   }
   
   
-  @media screen and (max-width: 768px) {
+  @media screen and (max-width: 600px) {
 
     header {
-      background: #000000;
+      color: #9e9b0c;
     }
   }
   
