@@ -147,15 +147,13 @@ transform: scale(1.3);
 }
 
 @media screen and (max-width: 900px) {
-
-
     header {
       color: #9e9b0c;
     }
   }
   
   
-  @media screen and (max-width: 600px) {
+@media screen and (max-width: 600px) {
 
     header {
       color: #9e9b0c;
