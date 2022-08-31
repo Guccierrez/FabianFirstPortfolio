@@ -66,11 +66,7 @@ p {
     margin-left: 25px;
 }
 
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
+
 
 .benefits {
     margin-right: 20px;
@@ -88,16 +84,6 @@ p {
     color: #ffffff;
 }
 
-.benefit h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
 
 .content2 {
     margin-bottom: 20px;
