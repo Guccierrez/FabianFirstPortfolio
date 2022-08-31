@@ -8,14 +8,7 @@
 
   <p align="center">
     My first webpage that in the future will display my work.
-    <br />
-    <br />
-    <br />
 </div>
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
 
 ### Built With
 <li>HTML</li>
