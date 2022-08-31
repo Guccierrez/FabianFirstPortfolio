@@ -9,7 +9,6 @@
   <p align="center">
     My first webpage that in the future will display my work.
     <br />
-    <img href="https://github.com/github_username/repo_name"/>
     <br />
     <br />
 </div>
@@ -17,8 +16,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-<img src="./first_portfolio_pic/preview.jpeg"/>
 
 ### Built With
 <li>HTML</li>
